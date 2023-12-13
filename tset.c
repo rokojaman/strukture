@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello Worldgit push -u origin maingit push -u origin main}}");
+    printf("Hello World");
 
     return 0;
 }
