@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("aaaaaaaaaaaaaaaaaa");
+    printf("bbbbb");
 
     return 0;
 }
